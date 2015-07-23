@@ -1,0 +1,5 @@
+C:\Users\gunhark.noh\Desktop\ADC_4ch_DAC_renew.cydsn\ADC_4ch_DAC_renew.cyprj|bde60c2e-9a91-4777-ae14-85c041e7f0ed
+C:\Program Files\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|f4014d57-51c7-4474-8156-0c9014cf25e0
+C:\Program Files\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|c160aa87-cc64-46d0-9a9a-2f3116c7b542
+C:\Program Files\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|9c6cfcf2-5e30-42bd-a096-3c0ec2ceb92b
+C:\Program Files\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|4fde0512-fefc-4640-8163-fc2baa571921
